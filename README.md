@@ -1,4 +1,4 @@
-# Auth Service — JWT & OAuth2 (FastAPI)
+# Auth Service : JWT & OAuth2 (FastAPI)
 
 A small, production-shaped authentication service built with **FastAPI**,
 **SQLAlchemy (async)**, **PyJWT**, and **bcrypt**. It implements the OAuth2
